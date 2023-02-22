@@ -1,0 +1,1 @@
+You need to put these codes inside your character. Then you need to give the speed value to your character from the Editor.
